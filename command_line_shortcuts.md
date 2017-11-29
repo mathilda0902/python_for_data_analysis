@@ -1,4 +1,4 @@
-#Short cuts for command line:
+# Short cuts for command line:
 
 - Ctrl + r: search in history
 - Ctrl + a: go to beginning of current line
@@ -9,7 +9,7 @@
 - Ctrl + k: delete rest of the line, (from current cursor to the end of line)
 - Ctrl + u: delete current line
 
-#Short cuts for iPython:
+# Short cuts for iPython:
 
 - %cd dir: change directory within iPython
 - %pwd: check the path of current working directory
